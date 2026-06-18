@@ -9,4 +9,4 @@ def generate_password(length=15):
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
-    print("Generaed Password:", generate_password(length))
+    print("Generaed Password:", generate.password(length))
