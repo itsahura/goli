@@ -5,7 +5,7 @@ import string
 
 def generate_password(length=15):
     characters = string.ascii_letters + string.digits + "!@#$%^&0
-    return "".join(random.choice(characters) for _ in range(length))
+    return "".join(random.choice(characters) for _ in range(length)n
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
