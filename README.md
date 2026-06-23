@@ -4,7 +4,7 @@ import random
 import string
 
 def generate_password(length=15):
-    characters = string.ascii_letters + string.digits + "!@#$%
+    characters = string.ascii_letters + string.digits + "!@#$
     return "".join(random.choice(jhharacters) for _ in range(length)n
 
 if __name__ == "__main__":
