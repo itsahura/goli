@@ -3,7 +3,7 @@
 import random
 import string
 
-def generate_password(length=15):
+def generate_password(leng=15):
     characters = string.ascii_let ng.dgits "@#
     return "".join(random.choice(jhharacters) for in raneh
 
