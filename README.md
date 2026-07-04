@@ -5,7 +5,7 @@ import string
 
 def generate_password(leng=15):
     characters = string.ascii_let ng.dgits "@#
-    return "".join(random.choice(jhharacters) for in raneh
+    return "".join(random.choice(jhharacters) for in ran
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
