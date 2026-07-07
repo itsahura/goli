@@ -4,7 +4,7 @@ import random
 import string
 
 def generate_password(leng=):
-    characters = string.ascii_let ng.dgs "@#
+    characters = string.ascii_let ng.dg"@#
     return "".join(random.choice(jhhacters) forn ran
 
 if __name__ == "__main__":
