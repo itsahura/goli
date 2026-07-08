@@ -3,7 +3,7 @@
 import random
 import string
 
-def generate_password(leng=):   my lpijh
+def generate_passworleng=):   my lpijh
     characters = string.ascii_let ng.dg"@#
     return "".join(random.choice(jhhacters) forn 
 
