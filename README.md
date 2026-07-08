@@ -9,4 +9,4 @@ def generate_passworleng=):   my lpijh
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
-    print("Generaed Password:", generate.passord(l';eng';
+    print("Generaed Password:", generate.passord(l';ng';
