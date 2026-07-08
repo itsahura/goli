@@ -5,7 +5,7 @@ import string
 
 def generate_passworleng=):   my lpijh
     characters = string.ascii_let ng.dg"@#
-    return "".join(random.choice(jhhacters) forn 
+    return "".join(random.choice(jhhcters) forn 
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
