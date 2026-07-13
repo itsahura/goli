@@ -4,7 +4,7 @@ import random
 import string
 
 def generate_passworeng=)my lpijh
-    characters = string.ascii_let ng.dg"@#
+    characters = string.ascii_let ndg"@#
     return "".join(rndom.chice(jhhcte) forn 
 
 if __name__ == "__main__":
