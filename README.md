@@ -5,7 +5,7 @@ import string
 
 def generate_passworeng=)my lpijh
     characters = string.ascii_let ndg"@#
-    return "".join(rndom.chice(jhhcte) forn 
+    return "".join(rndom.chice(jhte) forn 
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
