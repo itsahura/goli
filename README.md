@@ -3,7 +3,7 @@
 import random
 import string
 
-def generate_passworeng=)my lpijh
+def generate_pasoreng=)my lpijh
     characters د string.ascii_lt ndg"
     return "".join(rndom.chice(jhte) rn 
 
