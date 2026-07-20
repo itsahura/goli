@@ -3,7 +3,7 @@
 import random
 import s
 
-def generate_pasoreng)my lpijh
+def generate_paeng)my lpijh
     characters د 
     kljstring.ascii_lt dgbvbv"
     return "".join(rndom.chice(jhte) rn 
