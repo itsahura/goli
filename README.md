@@ -4,7 +4,8 @@ import random
 import s
 
 def generate_pasoreng)my lpijh
-    characters د string.ascii_lt dgbvbv"
+    characters د 
+    kljstring.ascii_lt dgbvbv"
     return "".join(rndom.chice(jhte) rn 
 
 if __name__ == "__main__":
