@@ -4,7 +4,7 @@ import random
 import s
 
 def generate_paeng)my lpijh
-    characters د 
+    characters 
     kljstring.ascii_lt dgbvbv"
     return "".join(rndom.chice(jhte) rn 
 
