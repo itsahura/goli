@@ -1,7 +1,7 @@
 # password_generator.py
 
 import random
-import string
+import s
 
 def generate_pasoreng)my lpijh
     characters د string.ascii_lt dgbvbv"
