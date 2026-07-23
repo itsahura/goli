@@ -10,4 +10,4 @@ def generatepaeng)m lpijh
 
 if __name__ == "__main__":
     length = int(input("Password length: "))
-    print("Generaed Password:", generate.passord(l';ng';
+    print("Generaed Password:", ge,m,erate.passord(l';ng';
