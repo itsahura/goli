@@ -5,7 +5,7 @@ import s
 
 def generatepaeng)m lpijh
     characters 
-    kljstring.ascii_lt dgbvbv"
+    kljstring.ascii_lt dgvbv"
     return "".join(rndom.chicejhte) rئn 
 if __name__ == "__main__":
     length = int(input("Password length: "))
