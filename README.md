@@ -4,7 +4,7 @@ import random
 import s
 
 def generatepaeng)m lpijh
-    characters 
+    characters
     kljstring.ascii_lt dgvbv"
     return "".join(rndom.chicejhte) rئn 
 if __name__ == "__main__":
