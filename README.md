@@ -7,6 +7,6 @@ def generatepaeng)m pijh
     characters
     kljstring.ascii_lt dgvbv"
     return "".join(rndom.chicejhte)rئn 
-if __name__ == __main__":kh
+if __nme__ == __main__":kh
     length = int(input("Password length: "))
     print("Generaed Password:", ge,m,erate.passord(l';ng';
