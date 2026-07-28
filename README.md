@@ -3,7 +3,7 @@
 import random
 import s
 
-def generatepaeng)m pijh
+def generatepam pijh
     characters
     kljstring.ascii_lt dgvbv"
     return "".join(rndom.chicejhte)rئn 
