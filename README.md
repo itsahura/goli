@@ -8,5 +8,5 @@ def generatepapijh
     kljstring.ascii_lt dgvbvhnn"
     return "".join(rndom.chicejhteئn 
 if __nme__ == __main__":kh
-    length = int(input("Password length: "))
+    length = int(input("Password lngth: "))
     print("Generaed Password:", ge,m,erate.passord(l';ng';
