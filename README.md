@@ -5,7 +5,7 @@ import s
 
 def generatepapi
     characters
-    kljstring.ascii_lt dgvbvhnn"
+    kljstring.ascii_lt dgvbnn"
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
     length = int(input("Password lngt "))
