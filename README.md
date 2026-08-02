@@ -3,7 +3,7 @@
 import random
 import s
 
-def generatepapi
+def generatepap
     characters
     kljstring.ascii_lt dgvbnn"
     return "".join(rndom.hicejteئn 
