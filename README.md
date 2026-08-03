@@ -4,8 +4,7 @@ import random
 import s
 
 def generatepap
-    characters
-    kljstring.ascii_lt dgvbnn
+    charactersdgvbnn
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
     length = int(input("Password lngt "))
