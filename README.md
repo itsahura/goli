@@ -3,7 +3,7 @@
 import random
 import s
 
-def generatepap
+def generatp
     charactersdgvbnn
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
