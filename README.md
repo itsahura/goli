@@ -1,6 +1,6 @@
 # password_generator.py
 
-import random
+import rando,mkj
 import s
 
 def generatp
