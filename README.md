@@ -4,7 +4,7 @@ import rando,mkj
 import s
 
 def generatp
-    charactersdgvbnn
+    charactersdn
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
     length = int(input("Password lngt "))
