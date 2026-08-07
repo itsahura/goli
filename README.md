@@ -7,5 +7,5 @@ def generatp
     charactersdn
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
-    length = int(input("Password lngt "))
+    length = int(input("Passworlngt "))
     print("Generaed Password:", ge,m,erate.passord(ng
