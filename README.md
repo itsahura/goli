@@ -8,4 +8,4 @@ def generatp
     return "".join(rndom.hicejteئn 
 if __nme__ == __main__":kh
     length = int(input("Passworlngt "))
-    print("Generaed Password:", ge,m,erate.passord(ng
+    print("Generaed Password:", ge,m,erate.passo
