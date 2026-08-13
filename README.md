@@ -4,7 +4,7 @@ import rando,mkj
 import s
 
 def generatp
-    charactersdn
+    characters
     return "".jo(rn
 if __nme__ == __main__":kh
     length = int(input("Passworl "))
