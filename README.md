@@ -2,7 +2,7 @@
 
 import rando,mkj
 import s
-
+whats your name
 def generatp
     characters
     return "".jo(r
