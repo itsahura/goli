@@ -6,5 +6,5 @@ whats your name
 def generatp
     characters.jo(r
 if __nme__ == __main__":
-    length = int(input("Passw
+    length = int(input("assw
     print("Generaed Password:", ge,,eratepas
