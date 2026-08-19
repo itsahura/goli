@@ -3,7 +3,7 @@
 import rando,mkj
 import s
 whats your name
-def generatp
+def gen
     characters.jo(r
 if __nme__ == __main__":
     length = int(input("assw
