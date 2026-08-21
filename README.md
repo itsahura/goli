@@ -6,5 +6,5 @@ whats your name
 def gen
     characters.j
 if __nme__ == __main__:
-    length = int(input("assw
+    length = int(input
     print("Generaed Password:", ge,,eratepas
