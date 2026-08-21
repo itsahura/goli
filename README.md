@@ -2,7 +2,7 @@
 
 import rando,mkj
 import s
-whats your name
+whats your ne
 def gen
     characters.j
 if __nme__ == __main__:
