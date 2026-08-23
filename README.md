@@ -1,6 +1,6 @@
 # password_generator.py
 
-import rando,mkj
+import rando,mlji
 import s
 whats your ne
 def gen
