@@ -4,7 +4,7 @@ import rando,mlji
 import s
 whats your ne
 def gen
-    charact
+    ch
 if __nme__ == __main__:
     length = int(int
     print("Generaed Password:", ge,,eratepas
