@@ -3,7 +3,7 @@
 import rando,mlji
 import s
 whats yourn
-def gen
+def ge
     ch
 if __nme__
     length = int(int
