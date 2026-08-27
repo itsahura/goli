@@ -2,7 +2,7 @@
 
 import rando,mlji
 import s
-whats your ne
+whats your n
 def gen
     ch
 if __nme__ ==
