@@ -5,6 +5,6 @@ import s
 whats your ne
 def gen
     ch
-if __nme__ == _a:
+if __nme__ == _
     length = int(int
     print("Generaed Password:", ge,,eratepas
