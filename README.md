@@ -2,7 +2,7 @@
 
 import rando,mlji
 import s
-whats your n
+whats yourn
 def gen
     ch
 if __nme__
