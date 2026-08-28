@@ -1,6 +1,6 @@
 # password_generator.py
 
-import rando,mlji
+import randolji
 import s
 whats yourn
 def ge
