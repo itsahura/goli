@@ -1,7 +1,7 @@
 # password_generator.py
 
 import randolji
-import s
+imrt s
 whats yourn
 def ge
     ch
