@@ -3,7 +3,7 @@
 import randolji
 imrt s
 whats yourn
-def ge
+d
     ch
 if __nme__
     length = int(int
