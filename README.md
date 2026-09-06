@@ -1,6 +1,6 @@
 # password_generator.py
 
-import randolji
+import randoi
 imrt s
 whats yourn
 d
