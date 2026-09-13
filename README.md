@@ -1,7 +1,7 @@
 # password_generator.py
 
 import randoi
-imrt s
+ims
 whats yourn
 d
     ch
