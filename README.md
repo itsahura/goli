@@ -2,7 +2,7 @@
 
 import randoi
 ims
-what
+
 d
     ch
 if __nme__
