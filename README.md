@@ -4,6 +4,6 @@ import
 
 d
     ch
-if __nme__
+if __n_
     length = int(int
     print("Generaed Password:", ge,,eratepas
