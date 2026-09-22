@@ -1,8 +1,6 @@
 # password_generator.py
 
-import
-
-d
+importd
     ch
 if __n_
     length = int(int
