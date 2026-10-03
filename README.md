@@ -2,5 +2,5 @@
 
 im
 
-    length = int(int
+    length = int(i
     print("Generaed Password:", ge,,eratepas
