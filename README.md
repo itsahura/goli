@@ -1,6 +1,7 @@
 # password_generator.py
 
-im
+imwhat she doing
+
 
     length = int(i
     print("Generaed Password:", ge,,eratepas
