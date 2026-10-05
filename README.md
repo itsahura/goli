@@ -3,5 +3,5 @@
 imwhat she doing
 
 
-    length = int(i
+    length = in
     print("Generaed Password:", ge,,eratepas
