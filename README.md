@@ -1,6 +1,6 @@
 # password_generator.py
 
-imwhat she doing
+imwhat she doi
 
 
     length = in
