@@ -3,5 +3,5 @@
 imwhat she doi
 
 
-    length = in
+    length = 
     print("Generaed Password:", ge,,eratepas
